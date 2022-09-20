@@ -8,8 +8,8 @@ Please refer to the provided document for the code challenge requirements.
 - `npm test` - Runs available tests
 
 ## Improvements
-- Beer list moved to a separate component
-- Data is moved to a separate file
+- Beer list moved to a separate component.
+- Data is moved to a separate file.
 - Unit tests are added and packaged inside the components.
 
 ## Future Improvements
@@ -19,4 +19,4 @@ Please refer to the provided document for the code challenge requirements.
 
 
 ## Note
-beerData.test.js is added just for the test coverage
+- beerData.test.js is added just for the test coverage
