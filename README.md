@@ -13,9 +13,9 @@ Please refer to the provided document for the code challenge requirements.
 - Unit tests are added and packaged inside the components.
 
 ## Future Improvements
-- API call will be moved to service package. As of now only one API call and therefore it is in the component itself.
+- Move API calls to service package. As of now only one API call and therefore it is in the component itself.
 - Add suspense component while loading.
-- Errors will be handled to display Error dialog box.
+- Handle errors to display Error dialog box.
 - Improve UI/UX standards. 
 
 ## Note
